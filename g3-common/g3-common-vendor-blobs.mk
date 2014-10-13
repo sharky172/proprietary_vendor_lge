@@ -30,8 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Hdmi_cal.acdb:system/etc/acdbdata/g3/Hdmi_cal.acdb \
     vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Headset_cal.acdb:system/etc/acdbdata/g3/Headset_cal.acdb \
     vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Speaker_cal.acdb:system/etc/acdbdata/g3/Speaker_cal.acdb \
-    vendor/lge/g3-common/proprietary/etc/firmware/BCM4339_003.001.009.0061.0313_FM_I2S.hcd:system/etc/firmware/BCM4339_003.001.009.0061.0313_FM_I2S.hcd \
-    vendor/lge/g3-common/proprietary/etc/firmware/BCM4339_003.001.009.0061.0312.hcd:system/etc/firmware/BCM4339_003.001.009.0061.0312.hcd \
     vendor/lge/g3-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/g3-common/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/lge/g3-common/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
@@ -223,10 +221,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
     vendor/lge/g3-common/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/lge/g3-common/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
-    vendor/lge/g3-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/etc/firmware/fw_bcmdhd_apsta.bin \
-    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd.bin:system/etc/firmware/fw_bcmdhd.bin \
-    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd_mfg.bin:system/etc/firmware/fw_bcmdhd_mfg.bin \
-    vendor/lge/g3-common/proprietary/etc/wifi/bcmdhd.cal:system/etc/wifi/bcmdhd.cal \
-    vendor/lge/g3-common/proprietary/etc/wifi/bcmdhd_lgit.cal:system/etc/wifi/bcmdhd_lgit.cal \
-    vendor/lge/g3-common/proprietary/etc/wifi/bcmdhd_murata.cal:system/etc/wifi/bcmdhd_murata.cal
+    vendor/lge/g3-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt
