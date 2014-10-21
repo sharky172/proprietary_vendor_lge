@@ -74,5 +74,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d851/proprietary/etc/firmware/fw_bcmdhd_mfg.bin:system/etc/firmware/fw_bcmdhd_mfg.bin \
     vendor/lge/d851/proprietary/etc/wifi/bcmdhd.cal:system/etc/wifi/bcmdhd.cal \
     vendor/lge/d851/proprietary/etc/wifi/bcmdhd_lgit.cal:system/etc/wifi/bcmdhd_lgit.cal \
-    vendor/lge/d851/proprietary/etc/wifi/bcmdhd_murata.cal:system/etc/wifi/bcmdhd_murata.cal
-
+    vendor/lge/d851/proprietary/etc/wifi/bcmdhd_murata.cal:system/etc/wifi/bcmdhd_murata.cal \
+    vendor/lge/d851/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
+    vendor/lge/d851/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
+    vendor/lge/d851/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
+    vendor/lge/d851/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
+    vendor/lge/d851/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
+    vendor/lge/d851/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
+    vendor/lge/d851/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt
